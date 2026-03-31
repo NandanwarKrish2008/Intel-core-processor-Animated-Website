@@ -1,0 +1,84 @@
+[
+  {
+    "id": "intel-core-ultra-9",
+    "name": "Intel® Core™ Ultra 9 Processor 185H",
+    "description": "Elite performance for mobile gaming and professional creativity.",
+    "price": 599.99,
+    "specs": [
+      {
+        "label": "Cores",
+        "value": "16 (6P + 8E + 2LP)"
+      },
+      {
+        "label": "Threads",
+        "value": "22"
+      },
+      {
+        "label": "Max Turbo Frequency",
+        "value": "5.1 GHz"
+      },
+      {
+        "label": "Graphics",
+        "value": "Intel® Arc™ Graphics"
+      }
+    ]
+  },
+  {
+    "id": "intel-core-ultra-7",
+    "name": "Intel® Core™ Ultra 7 Processor 155H",
+    "description": "Perfect balance of high performance and mobility.",
+    "price": 429.99,
+    "specs": [
+      {
+        "label": "Cores",
+        "value": "16 (6P + 8E + 2LP)"
+      },
+      {
+        "label": "Threads",
+        "value": "22"
+      },
+      {
+        "label": "Max Turbo Frequency",
+        "value": "4.8 GHz"
+      },
+      {
+        "label": "TDP",
+        "value": "28W"
+      }
+    ]
+  },
+  {
+    "id": "intel-core-ultra-5",
+    "name": "Intel® Core™ Ultra 5 Processor 125H",
+    "description": "Efficient AI PC performance for everyday productivity.",
+    "price": 319.99,
+    "specs": [
+      {
+        "label": "Cores",
+        "value": "14 (4P + 8E + 2LP)"
+      },
+      {
+        "label": "Threads",
+        "value": "18"
+      },
+      {
+        "label": "Max Turbo Frequency",
+        "value": "4.5 GHz"
+      },
+      {
+        "label": "NPU",
+        "value": "Intel® AI Boost"
+      }
+    ]
+  },
+  {
+    "name": "Intel i9 14th Gen",
+    "description": "Bestest processor everrr...",
+    "price": 999,
+    "category": "CPU",
+    "stock": 8,
+    "image": "",
+    "specs": [],
+    "id": "cd01h4"
+  }
+]

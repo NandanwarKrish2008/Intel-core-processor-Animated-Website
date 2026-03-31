@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Admin Test",
+    "email": "admin@test.com",
+    "message": "Testing message deletion.",
+    "id": "srmqup",
+    "status": "read",
+    "createdAt": "2026-03-09T16:29:41.360Z"
+  }
+]
